@@ -6510,7 +6510,7 @@ button.bg-dark:focus {
 
 .mt-5,
 .my-5 {
-  margin-top: 3rem !important; }
+  margin-top: 1rem !important; }
 
 .mr-5,
 .mx-5 {
@@ -8837,7 +8837,7 @@ textarea.form-control {
   font-size: 24px; }
 
 .ftco-section {
-  padding: 7em 0;
+  padding: 4em 0;
   position: relative; }
   @media (max-width: 767.98px) {
     .ftco-section {
@@ -9012,7 +9012,7 @@ textarea.form-control {
   position: relative;
   z-index: 0;
   overflow: hidden;
-  padding: 7em 0; }
+  padding: 3em 0 1em 0; }
   .footer a {
     color: #BDC92E; }
   .footer p {
@@ -9022,7 +9022,7 @@ textarea.form-control {
     color: #999999; }
   .footer .footer-heading {
     font-size: 22px;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     font-weight: 700;
     color: #fff;
     position: relative; }
