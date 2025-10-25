@@ -9809,3 +9809,15 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+
+    .social_icon {
+      padding: 7px 8px;
+    }
+    .social_icon img {
+      /* fill: #BDC92E; */
+      filter: brightness(0) saturate(100%) invert(69%) sepia(79%) saturate(403%) hue-rotate(20deg) brightness(96%) contrast(92%);
+    }
+    .social_icon:hover img {
+      /* fill: #BDC92E; */
+      filter: brightness(0) saturate(100%) invert(93%) sepia(7%) saturate(27%) hue-rotate(281deg) brightness(105%) contrast(107%);
+    }
